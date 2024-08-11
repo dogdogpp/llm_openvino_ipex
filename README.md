@@ -1,3 +1,4 @@
+# CSDN详细介绍：https://blog.csdn.net/hahahahahayqq/article/details/141107240?csdn_share_tail=%7B%22type%22%3A%22blog%22%2C%22rType%22%3A%22article%22%2C%22rId%22%3A%22141107240%22%2C%22source%22%3A%22hahahahahayqq%22%7D
 # 下载原始模型以及int4模型量化
 这次看到天池比赛有一些部署上的比赛，练习了一下，主要是实现了int4量化和RAG技术。
 ipex_llm这个库好像对Linux的支持要好一点，这里提供官方的环境下载方式，要注意路径的更换
