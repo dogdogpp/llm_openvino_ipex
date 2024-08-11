@@ -74,3 +74,7 @@ model.save_pretrained('qwen2chat_int4')
 from modelscope import snapshot_download
 model_dir = snapshot_download('AI-ModelScope/all-mpnet-base-v2', cache_dir='sentence-transformers')
 ```
+
+
+#运行
+下载存储库，确保路径没有问题后，运行RAG_trust.py文件
